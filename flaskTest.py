@@ -19,7 +19,7 @@ def home():
         artist = ""
 
     return render_template(
-        "index.html",
+        "santunes.html",
         title=title,
         artist=artist
     )
