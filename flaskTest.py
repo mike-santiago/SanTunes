@@ -23,5 +23,3 @@ def home():
         title=title,
         artist=artist
     )
-
-app.run(debug=True)
